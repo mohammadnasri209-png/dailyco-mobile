@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Dailyco",
+    "slug": "dailyco",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#2E5CFF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.dailyco.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#2E5CFF"
+      }
+    },
+    "extra": {
+      "apiBaseUrl": "https://dailyco-app-backend.mohammadnasri-dailyco.workers.dev",
+      "eas": {
+        "projectId": "492905f6-a826-4481-bce8-a8fcfb757d9e"
+      }
+    }
+  }
+}
