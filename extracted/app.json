@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Tootik",
-    "slug": "tootik",
+    "slug": "dailyco",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
